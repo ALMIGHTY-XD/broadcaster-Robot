@@ -1,9 +1,9 @@
 class Presets(object):
     WELCOME_MESSAGE = """
-<b>Wassup GUYS❤️..</b>{}
+<b>Wassu.. </b>{} ❤️
 <code>I'm Lakshya Gupta
-Telegram id :- </code> <b>{}</b>
-<code>Bot to communicate with all❤️ All the very best to all neet aspirants🤍, u can ask anything without any hesitation. Love you all ❤️❤️ </code>
+my group </code> <b>{}</b>
+<code>This Bot is to communicate with all. All the very best to all neet aspirants, u can ask anything here without any hesitation. Love you all ❤️❤️ </code>
     """
     USERS_LIST = "<b>Total:</b>\n\nSubscribers - {}\nBlocked / Deleted - {}"
     WAIT_MSG = "<b>Please Wait...</b>"
