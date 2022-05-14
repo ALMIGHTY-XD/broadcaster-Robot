@@ -1,8 +1,8 @@
 #  !/usr/bin/env python3
 #  -*- coding: utf-8 -*-
 #  Name     : broadcast-bot [ Telegram ]
-#  Repo     : https://github.com/m4mallu/broadcast-bot
-#  Author   : Renjith Mangal [ https://t.me/space4renjith ]
+#  Repo     : https://github.com/ALMIGHTY-XD/broadcaster-Robot
+#  Author   : Almighty [ https://t.me/Almighty_xd ]
 #  Licence  : GPL-3
 
 import os
