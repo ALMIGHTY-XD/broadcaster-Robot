@@ -1,7 +1,7 @@
 class Presets(object):
     WELCOME_MESSAGE = """
-<b>Wassu.. </b>{} ❤️
-<code>I'm Lakshya Gupta
+<b>Wassup.. </b>{} ❤️
+<code> IT'S ME  LAKSHYA GUPTA 👉 NEET ASPIRANT  
 my group </code> <b>{}</b>
 <code>This Bot is to communicate with all. All the very best to all neet aspirants, u can ask anything here without any hesitation. Love you all ❤️❤️ </code>
     """
