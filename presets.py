@@ -1,8 +1,8 @@
 class Presets(object):
     WELCOME_MESSAGE = """
 <b>Wassup.. </b>{} ❤️❤️🥀
-<code> IT'S ME  LAKSHYA GUPTA 👉 NEET ASPIRANT  
-my group</code> <b>
+<code> IT'S ME  LAKSHYA GUPTA.
+i'm neet aspirant, trying to help you all stay connected with this bot. i'll provide you everything there❤️❤️</code> <b>
 <code>This Bot is to communicate with all. All the very best to all neet aspirants, u can ask anything here without any hesitation. Love you all ❤️❤️ </code>
     """
     USERS_LIST = "<b>Total:</b>\n\nSubscribers - {}\nBlocked / Deleted - {}"
